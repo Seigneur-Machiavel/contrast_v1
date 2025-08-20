@@ -1,0 +1,3 @@
+[submodule "lib/p2p"]
+	path = lib/p2p
+	url = https://github.com/Seigneur-Machiavel/contrast_p2p
